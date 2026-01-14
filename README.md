@@ -14,7 +14,7 @@ python hasher.py -h
 This will show you the help menu and allow you to see the options available.
 
 ```bash
-python hasher.py -w wordlist.txt -h hash.txt
+python hasher.py -w wordlist.txt -H hash.txt
 ```
 
 This will allow you to specify the wordlist and the hash file.
